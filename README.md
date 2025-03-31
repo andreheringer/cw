@@ -1,4 +1,4 @@
-# Database Reliability Engineer Test - Solution
+# Database Reliability Engineer Test
 
 This repository contains a solution for the Database Reliability Engineer test.
 It sets up two PostgreSQL containers (`pg_master` and `pg_replica`) using **Docker Compose**
